@@ -2,7 +2,7 @@
 
 ## Abstract
 
- a script that would find and automatically <cfqueryparam> queries
+a script that would find and automatically cfqueryparam queries
  
 ## Blog Post
 
