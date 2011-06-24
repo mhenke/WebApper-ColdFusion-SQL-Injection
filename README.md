@@ -18,7 +18,7 @@ This will probably break some queries, especially if you do things like WHERE da
 
 ## License
 
-RELEASED TO THE PUBLIC DOMAIN.  But feel free to credit me with original authorship if you release it with modifications.
+RELEASED TO THE PUBLIC DOMAIN.  But feel free to credit Daryl Banttari with original authorship if you release it with modifications.
 
 ## Git Workflow for Contributors
 
