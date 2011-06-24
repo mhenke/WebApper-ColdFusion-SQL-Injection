@@ -1,9 +1,13 @@
 # readme
 
-## Abstract
+# Purpose
 
-a script that would find and automatically cfqueryparam queries
- 
+Seek out unparamaterized queries in ColdFusion templates and, at user's option, parameterize them.
+
+## Written by 
+
+Daryl Banttari dbanttari@gmail.com
+
 ## Blog Post
 
 http://www.webapper.com/blog/index.php/2008/07/22/coldfusion-sql-injection
@@ -14,6 +18,7 @@ This will probably break some queries, especially if you do things like WHERE da
 
 ## License
 
+RELEASED TO THE PUBLIC DOMAIN.  But feel free to credit me with original authorship if you release it with modifications.
 
 ## Git Workflow for Contributors
 
